@@ -1,4 +1,4 @@
-# gotbooks
+# Project
 
 ## Project setup
 ```
